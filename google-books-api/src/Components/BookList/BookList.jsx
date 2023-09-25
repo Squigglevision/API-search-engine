@@ -1,7 +1,7 @@
 import BookGrid from "../GridItem/GridItem";
 import styles from "./BookList.module.scss";
 
-const BookList = ({ searchTerm, items }) => {
+const BookList = ({ searchTerm, items, searching, searchStarted }) => {
 	const filteredBooks = items.map((item) => {
 		return {
 			id: item.id,
@@ -16,7 +16,6 @@ const BookList = ({ searchTerm, items }) => {
 			pageCount: item.volumeInfo.pageCount,
 		};
 	});
-	console.log(items, "items");
 
 	let gridClasses = styles.grid;
 
@@ -56,9 +55,9 @@ const BookList = ({ searchTerm, items }) => {
 				</div>
 			) : (
 				<p>
-					{!searchTerm
-						? `Search by typing a keyword into the search box above`
-						: !items.length
+					{!searchStarted
+						? `Type a keyword into the searchbar above to search for a book`
+						: !searching
 						? `There are no search results for ${searchTerm}.`
 						: null}
 				</p>

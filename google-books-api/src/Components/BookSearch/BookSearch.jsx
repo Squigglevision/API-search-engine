@@ -6,23 +6,22 @@ const BookSearch = ({ handleSubmit }) => {
 	const formSubmit = (e) => {
 		e.preventDefault();
 		handleSubmit(inputValue);
-		console.log("Form submitted", inputValue);
-		setInputValue(""); // Empty the search bar
+		setInputValue("");
 	};
 
 	const onInputChange = (e) => {
 		setInputValue(e.target.value);
-		console.log(e.target.value);
 	};
 
 	return (
-		<form onSubmit={formSubmit} className={styles.form}>
+		<form onSubmit={formSubmit} className={styles.form} id="search">
 			<input
 				className={styles.input}
 				onChange={onInputChange}
 				type="text"
 				placeholder="search"
 				value={inputValue}
+				id="searchInput"
 			></input>
 			<button className={styles.btn}>Search </button>
 		</form>

@@ -8,13 +8,18 @@ import Header from "./Components/Header/Header";
 function App() {
 	const [searchTerm, setSearchTerm] = useState(null);
 	const [items, setItems] = useState([]);
+	const [searching, setSearching] = useState(false);
+	const [searchStarted, setSearchStarted] = useState(false);
 
 	const fetchBooks = async (searchTerm) => {
 		const data = await getBooksBySearchTerm(searchTerm);
 		setItems(data.items || []);
+		setSearching(false);
 	};
 
 	const handleSubmit = (value) => {
+		setSearchStarted(true);
+		setSearching(true);
 		setSearchTerm(value);
 		fetchBooks(value);
 	};
@@ -26,8 +31,12 @@ function App() {
 			</header>
 			<main className={styles.app}>
 				<BookSearch handleSubmit={handleSubmit} />
-				<BookList searchTerm={searchTerm} items={items} />
-				{/* {searchTerm ? <BookSearch searchTerm={searchTerm} /> : <p></p>} */}
+				<BookList
+					searchTerm={searchTerm}
+					items={items}
+					searching={searching}
+					searchStarted={searchStarted}
+				/>
 			</main>
 		</>
 	);

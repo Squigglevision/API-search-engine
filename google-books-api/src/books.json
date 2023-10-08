@@ -1,0 +1,751 @@
+{
+	"kind": "books#volumes",
+	"totalItems": 3594,
+	"items": [
+		{
+			"kind": "books#volume",
+			"id": "-oNsDwAAQBAJ",
+			"etag": "YewayMl4SuQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/-oNsDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Michael De Feo: Flowers",
+				"authors": ["Michael De Feo"],
+				"publisher": "Abrams",
+				"publishedDate": "2019-04-09",
+				"description": "As an art student in 1993, Michael De Feo drew a simple bloom that became a familiar and welcome presence in New York after he spent countless nights pasting hundreds of versions of it all over the city’s building walls. Twenty-five years later, these flowers have been sighted in more than 60 international cities. His street works took a new direction in 2015 when a guerrilla art collective provided him access to the cases that protect bus-shelter ads, enabling him to launch a beautiful campaign of his blossoms on top of fashion ads. His art has taken many forms, including a substantial body of studio work inspired by Dutch 17th-century paintings and another series which married floral themes with Pre-Raphaelite and Victorian portraiture. De Feo’s colorful and lively book reproduces more than 200 of his flower-inspired images and features commentary from a diverse group of people who have supported his often-clandestine work.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781683355182"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1683355180"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 198,
+				"printType": "BOOK",
+				"categories": ["Art"],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.4.3.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=-oNsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=-oNsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=-oNsDwAAQBAJ&printsec=frontcover&dq=flowers&hl=&cd=1&source=gbs_api",
+				"infoLink": "http://books.google.com/books?id=-oNsDwAAQBAJ&dq=flowers&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Michael_De_Feo_Flowers.html?hl=&id=-oNsDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com/books/download/Michael_De_Feo_Flowers-sample-epub.acsm?id=-oNsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com/books/download/Michael_De_Feo_Flowers-sample-pdf.acsm?id=-oNsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=-oNsDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "As an art student in 1993, Michael De Feo drew a simple bloom that became a familiar and welcome presence in New York after he spent countless nights pasting hundreds of versions of it all over the city’s building walls."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ogs_KDUQLSsC",
+			"etag": "2oacOhbS8Es",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ogs_KDUQLSsC",
+			"volumeInfo": {
+				"title": "Flowers",
+				"authors": ["Gail Saunders-Smith"],
+				"publisher": "Capstone",
+				"publishedDate": "2004-09",
+				"description": "Simple text and photographs depict the parts of flowers and their pollination.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0736848649"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780736848640"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 32,
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.7.5.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ogs_KDUQLSsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ogs_KDUQLSsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=ogs_KDUQLSsC&printsec=frontcover&dq=flowers&hl=&cd=2&source=gbs_api",
+				"infoLink": "http://books.google.com/books?id=ogs_KDUQLSsC&dq=flowers&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Flowers.html?hl=&id=ogs_KDUQLSsC"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com/books/download/Flowers-sample-pdf.acsm?id=ogs_KDUQLSsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ogs_KDUQLSsC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Simple text and photographs depict the parts of flowers and their pollination."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ggdLjwEACAAJ",
+			"etag": "DyvyHmxwp/k",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ggdLjwEACAAJ",
+			"volumeInfo": {
+				"title": "Flowers: Art & Bouquets",
+				"authors": ["Sixtine Dubly", "Carlos Mota"],
+				"publisher": "Assouline Publishing",
+				"publishedDate": "2016-05-01",
+				"description": "Be it a single delicate bud in a simple clear vase or an explosion of colorful blossoms, a brilliant bouquet accents an atmosphere and brightens the mood like nothing else. The beauty of flowers has inspired artists, designers, poets, and myriad other creators for centuries: the Dutch masters of the 1600s and impressionist painters from Manet to Van Gogh, photographer Robert Mapplethorpe, botanical illustrator Georg Dionysius Ehret, even the inimitable Andy Warhol. Flowers: Art & Bouquets showcases a glorious profusion of floral images and interpretations across a spectrum of artistic media and time periods. Design writer Sixtine Dubly chronicles the evolution of floral design in this remarkable compendium, which also features stunning work by more than forty contemporary floral artists in London, Paris, and New York, from minimalist to elaborate. This treasury of gorgeous imagery blooms in resplendent color before the reader’s eyes.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781614285144"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1614285144"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 5,
+				"printType": "BOOK",
+				"categories": ["Travel"],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ggdLjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ggdLjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=ggdLjwEACAAJ&dq=flowers&hl=&cd=3&source=gbs_api",
+				"infoLink": "http://books.google.com/books?id=ggdLjwEACAAJ&dq=flowers&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Flowers_Art_Bouquets.html?hl=&id=ggdLjwEACAAJ"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ggdLjwEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The beauty of flowers has inspired artists, designers, poets, and myriad other creators for centuries: the Dutch masters of the 1600s and impressionist painters from Manet to Van Gogh, photographer Robert Mapplethorpe, botanical illustrator ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "GxXGDwAAQBAJ",
+			"etag": "usOI66NP4vE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/GxXGDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Floret Farm's A Year in Flowers",
+				"subtitle": "Designing Gorgeous Arrangements for Every Season",
+				"authors": ["Erin Benzakein"],
+				"publisher": "Chronicle Books",
+				"publishedDate": "2020-02-11",
+				"description": "Learn how to buy, style, and present seasonal flower arrangements for every occasion. With sections on tools, flower care, and design techniques, Floret Farm's A Year in Flowers presents all the secrets to arranging garden-fresh bouquets. Featuring expert advice from Erin Benzakein, world-renowned flower farmer, floral designer, and bestselling author of Floret Farm: Cut Flower Garden, this book is a gorgeous and comprehensive guide to everything you need to make your own incredible arrangements all year long, whether harvesting flowers from the backyard or shopping for blooms at the market. • Includes an A–Z flower guide with photos and care tips for more than 200 varieties. • Simple-to-follow advice on flower care, material selection, and essential design techniques • More than 25 how-to projects, including magnificent centerpieces, infinitely giftable posies, festive wreaths, and breathtaking bridal bouquets Floret Farm's A Year in Flowers offers advice on every phase of working with cut flowers—including gardening, buying, caring for, and arranging fresh flowers. Brimming with indispensable tips and hundreds of vibrant photographs, this book is an invitation to live a flower-filled life and perfect for anyone who loves flowers. • The definitive guide to flower arranging from the biggest star in the farm-to-centerpiece movement • Perfect for flower lovers, avid and novice gardeners, floral designers, wedding planners, florists, small farmers, stylists, designers, crafters, and those passionate about the local floral movement • For those who loved Floret Farm's Cut Flower Garden by Erin Benzakein, The Flower Recipe Book by Alethea Harampolis, Seasonal Flower Arranging by Ariella Chezar, and The Flower Chef by Carly Cylinder",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781452173054"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1452173052"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 315,
+				"printType": "BOOK",
+				"categories": ["Crafts & Hobbies"],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.4.4.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=GxXGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=GxXGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=GxXGDwAAQBAJ&printsec=frontcover&dq=flowers&hl=&cd=4&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=GxXGDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=GxXGDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 2.99,
+					"currencyCode": "USD"
+				},
+				"retailPrice": {
+					"amount": 2.99,
+					"currencyCode": "USD"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=GxXGDwAAQBAJ&rdid=book-GxXGDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 2990000,
+							"currencyCode": "USD"
+						},
+						"retailPrice": {
+							"amountInMicros": 2990000,
+							"currencyCode": "USD"
+						},
+						"giftable": true
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com/books/download/Floret_Farm_s_A_Year_in_Flowers-sample-epub.acsm?id=GxXGDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com/books/download/Floret_Farm_s_A_Year_in_Flowers-sample-pdf.acsm?id=GxXGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=GxXGDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Featuring expert advice from Erin Benzakein, world-renowned flower farmer, floral designer, and bestselling author of Floret Farm: Cut Flower Garden, this book is a gorgeous and comprehensive guide to everything you need to make your own ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "qgfOngEACAAJ",
+			"etag": "WDuGNfmRAPY",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/qgfOngEACAAJ",
+			"volumeInfo": {
+				"title": "Cool Flowers",
+				"subtitle": "How to Grow and Enjoy Long-blooming Hardy Annual Flowers Using Cool Weather Techniques",
+				"authors": ["Lisa Mason Ziegler"],
+				"publishedDate": "2014",
+				"description": "Presents simple techniques for an early spring garden of color profiling 30 hardy annual flowers.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0989268810"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780989268813"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 0,
+				"printType": "BOOK",
+				"categories": ["Gardening"],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=qgfOngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=qgfOngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=qgfOngEACAAJ&dq=flowers&hl=&cd=5&source=gbs_api",
+				"infoLink": "http://books.google.com/books?id=qgfOngEACAAJ&dq=flowers&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Cool_Flowers.html?hl=&id=qgfOngEACAAJ"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=qgfOngEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Presents simple techniques for an early spring garden of color profiling 30 hardy annual flowers."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "pPtBEQIEHHcC",
+			"etag": "oQ4HbW8eAbo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/pPtBEQIEHHcC",
+			"volumeInfo": {
+				"title": "Industry and Trade Summary: Cut Flowers",
+				"publisher": "DIANE Publishing",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781457821509"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1457821508"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.0.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=pPtBEQIEHHcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=pPtBEQIEHHcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=pPtBEQIEHHcC&pg=PA8&dq=flowers&hl=&cd=6&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=pPtBEQIEHHcC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=pPtBEQIEHHcC"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 14.95,
+					"currencyCode": "USD"
+				},
+				"retailPrice": {
+					"amount": 14.95,
+					"currencyCode": "USD"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=pPtBEQIEHHcC&rdid=book-pPtBEQIEHHcC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 14950000,
+							"currencyCode": "USD"
+						},
+						"retailPrice": {
+							"amountInMicros": 14950000,
+							"currencyCode": "USD"
+						},
+						"giftable": true
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com/books/download/Industry_and_Trade_Summary_Cut_Flowers-sample-pdf.acsm?id=pPtBEQIEHHcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=pPtBEQIEHHcC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "... \u003cb\u003eflowers\u003c/b\u003e go from processors to wholesalers to craft stores or retail florists, and finally to the consumer (figure 2). Fresh cut \u003cb\u003eflower\u003c/b\u003e growers may sell their products to a \u003cb\u003eflower\u003c/b\u003e wholesaler, a florist, or directly to the consumer. Very&nbsp;..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "gdEBDAAAQBAJ",
+			"etag": "36ipHoL2pxw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/gdEBDAAAQBAJ",
+			"volumeInfo": {
+				"title": "Storm Front",
+				"authors": ["John Sandford"],
+				"publisher": "Penguin",
+				"publishedDate": "2014-09-30",
+				"description": "#1 New York Times Bestseller An ancient relic is unearthed during an archaeological dig. A Minnesota college professor is keeping a secret that could change the world’s history as we know it. For Virgil Flowers, the link between the two is inescapable—and his investigation, more dangerous and far-reaching than he can possibly imagine.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780425270240"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0425270246"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 433,
+				"printType": "BOOK",
+				"categories": ["Fiction"],
+				"averageRating": 3.5,
+				"ratingsCount": 39,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.5.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=gdEBDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=gdEBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=gdEBDAAAQBAJ&printsec=frontcover&dq=flowers&hl=&cd=7&source=gbs_api",
+				"infoLink": "http://books.google.com/books?id=gdEBDAAAQBAJ&dq=flowers&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Storm_Front.html?hl=&id=gdEBDAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=gdEBDAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "#1 New York Times Bestseller An ancient relic is unearthed during an archaeological dig."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "nLdKDwAAQBAJ",
+			"etag": "5hSv1otOWG8",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/nLdKDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Vegetables Love Flowers",
+				"subtitle": "Companion Planting for Beauty and Bounty",
+				"authors": ["Lisa Mason Ziegler"],
+				"publishedDate": "2018-03-27",
+				"description": "Fight garden pests and increase your yields the natural way with this tried and true technique! Planting vegetables and flowers together is one of the oldest ways to create a healthy, bountiful garden; but there's more to the method than you might think. Vegetables Love Flowers walks you through the ins and outs of companion planting, from how it works to which plants go together and how to grow the best garden for your climate. Alongside gorgeous garden photography, you'll also learn about: Seed-starting, growing, and harvesting How to make garden flower bouquets, with \"recipes\" for various arrangements How to attract beneficial creatures to pollinate your garden and prey on its pests Pesticide-free pest-control measures Composting heaps and bins With the right information and some careful planning, you can help your plants thrive—and beautify your garden in the process.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780760357583"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0760357587"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 179,
+				"printType": "BOOK",
+				"categories": ["Gardening"],
+				"averageRating": 4,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=nLdKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=nLdKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=nLdKDwAAQBAJ&printsec=frontcover&dq=flowers&hl=&cd=8&source=gbs_api",
+				"infoLink": "http://books.google.com/books?id=nLdKDwAAQBAJ&dq=flowers&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Vegetables_Love_Flowers.html?hl=&id=nLdKDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com/books/download/Vegetables_Love_Flowers-sample-pdf.acsm?id=nLdKDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=nLdKDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Vegetables Love Flowers walks you through the ins and outs of companion planting, from how it works to which plants go together and how to grow the best garden for your climate."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "vtUY8UPG4KcC",
+			"etag": "5fmvmp6wzFA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/vtUY8UPG4KcC",
+			"volumeInfo": {
+				"title": "Favorite Flowers",
+				"authors": ["Dover Publications Inc"],
+				"publisher": "Courier Corporation",
+				"publishedDate": "2002",
+				"description": "This rich treasury of 253 high-quality, black-and-white illustrations encompasses a profusion of tropical blooms, garden flowers, house plants, roses, orchids, wildflowers, and many other popular florals.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780486995137"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0486995135"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 52,
+				"printType": "BOOK",
+				"categories": ["Design"],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=vtUY8UPG4KcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=vtUY8UPG4KcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=vtUY8UPG4KcC&printsec=frontcover&dq=flowers&hl=&cd=9&source=gbs_api",
+				"infoLink": "http://books.google.com/books?id=vtUY8UPG4KcC&dq=flowers&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Favorite_Flowers.html?hl=&id=vtUY8UPG4KcC"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.com/books/download/Favorite_Flowers-sample-pdf.acsm?id=vtUY8UPG4KcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=vtUY8UPG4KcC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This rich treasury of 253 high-quality, black-and-white illustrations encompasses a profusion of tropical blooms, garden flowers, house plants, roses, orchids, wildflowers, and many other popular florals."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "p7lyfH_NLYIC",
+			"etag": "Bm22xG3+aJ0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/p7lyfH_NLYIC",
+			"volumeInfo": {
+				"title": "Flowers in the Attic/Petals on the Wind",
+				"authors": ["V.C. Andrews"],
+				"publisher": "Simon and Schuster",
+				"publishedDate": "2009-11-10",
+				"description": "\"The first two books in the Dollanganger series\"--P. [4] of cover.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781442403017"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1442403012"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 850,
+				"printType": "BOOK",
+				"categories": ["Juvenile Fiction"],
+				"averageRating": 4,
+				"ratingsCount": 13,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=p7lyfH_NLYIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=p7lyfH_NLYIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.com/books?id=p7lyfH_NLYIC&printsec=frontcover&dq=flowers&hl=&cd=10&source=gbs_api",
+				"infoLink": "http://books.google.com/books?id=p7lyfH_NLYIC&dq=flowers&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Flowers_in_the_Attic_Petals_on_the_Wind.html?hl=&id=p7lyfH_NLYIC"
+			},
+			"saleInfo": {
+				"country": "US",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "US",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=p7lyfH_NLYIC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "&quot;The first two books in the Dollanganger series&quot;--P. [4] of cover."
+			}
+		}
+	]
+}

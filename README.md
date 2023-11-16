@@ -50,8 +50,3 @@ This application has the following features:
 In the future I would love to:
 -   Create functions inside services that handle more of the data manipulation/cleaning, so that they won't need to be handled at the component level
 -   Create pagination and redesign the API calls so that more than 20 books can be fetched from the API, and displayed on each page
-
-## Further details, related projects, reimplementations
-
--   Is this project a reimplementation for something you've done in the past? if so explain it and link it here.
--   If it's an API, is there a client app that works with this project? link it

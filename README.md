@@ -41,7 +41,7 @@ The application should then start running in your browser window.
 This application has the following features: 
 -   A search bar which will populate the screen with books when a search term is entered
 -   API calls to the Google Books API
--   A gallery of books that flip to review the description and publication details of each book when flipped
+-   A gallery of books that flip to reveal the description and publication details of each book when flipped
 
 ---
 
